@@ -1,7 +1,7 @@
 {
   "name": "airbrake-example",
   "dependencies": {
-    "cross-fetch": "^3.0.4",
+    "cross-fetch": "^3.1.5",
     "express": "^4.17.1",
     "express-winston": "^3.3.0",
     "fs": "0.0.1-security",
